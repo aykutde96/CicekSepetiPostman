@@ -107,7 +107,9 @@ Bu request sonucu oluşan response için çeşitli entegrasyon testleri yazılm�
 - 2 ve 3. atılan isteklerde bazen belirtilen response time değerinden yüksek değerler gelmektedir.
 - Postman testlerine ait sonuç aşağıdaki görselde gösterilmiştir:
 ## Postman Test Sonuçları
-
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- Test Sonuçları
+![](newman/TestResults.PNG)
+- Hatalı testler
+![](newman/FailedTests.PNG)
 
   
